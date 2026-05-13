@@ -21,7 +21,7 @@ The dataset is a public market transactions dataset used for portfolio and learn
 - Market_Transactions_1997.csv
 - Market_Transactions_1998.csv
 
-## 📂 Repository Structure
+## Repository Structure
 Market_Analysis_PowerBi/
 ├── Data/
 ├── Report/
@@ -47,7 +47,7 @@ Market_Analysis_PowerBi/
 ### Sales Analysis
 ![Sales Analysis](Screenshots/Sales_Analysis.PNG)
 
-## 🚀 How to Open the Project
+## How to Open the Project
 1. Download this repository.
 2. Open the `.pbix` file in Power BI Desktop.
 3. Refresh the data if needed.
